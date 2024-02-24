@@ -1,18 +1,11 @@
 {
   "name": "indepth",
   "version": "1.0.0",
-  "description": "learning to code",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "Indepth"
-  },
-  "author": "sunilneupane",
-  "license": "ISC",
-  "dependencies": {
-    "nodemon": "^3.1.0"
-  }
+  "author": "",
+  "license": "ISC"
 }
