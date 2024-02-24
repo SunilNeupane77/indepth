@@ -11,5 +11,8 @@
     "url": "Indepth"
   },
   "author": "sunilneupane",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
